@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Nishant Prajapati. I have 3.6 years of experience in the IT industry. My expertise is in Python, Odoo, Django, Rest API, and Django rest framework.
+My name is Nishant Prajapati. I have 3.6 years of experience in the IT industry. My expertise is in Python, Odoo, Django, Rest API, and Django Rest Framework.
 
 
 # 💻 Tech Stack:
